@@ -1,0 +1,31 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    outline: 0px;
+    box-sizing:border-box;
+}
+nav{
+    background-color: #02918c;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+ul{
+    list-style-type: none; 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+a{
+    font-size: 12px;
+    text-transform: uppercase;
+    color: #ffffff;
+    padding: 26px 20.5px;
+    text-decoration: none;
+    font-family: 'IBM Plex Mono', monospace;
+   font-family: 'Open Sans', sans-serif;
+   font-family: 'Roboto Mono', monospace;
+   font-weight: 800;
+}
+
+
